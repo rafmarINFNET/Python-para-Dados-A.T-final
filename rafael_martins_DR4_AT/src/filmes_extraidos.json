@@ -1,0 +1,1252 @@
+[
+  {
+    "titulo": "The Shawshank Redemption",
+    "ano": 1994,
+    "nota": 9.3
+  },
+  {
+    "titulo": "The Godfather",
+    "ano": 1972,
+    "nota": 9.2
+  },
+  {
+    "titulo": "The Dark Knight",
+    "ano": 2008,
+    "nota": 9.1
+  },
+  {
+    "titulo": "The Godfather Part II",
+    "ano": 1974,
+    "nota": 9.0
+  },
+  {
+    "titulo": "12 Angry Men",
+    "ano": 1957,
+    "nota": 9.0
+  },
+  {
+    "titulo": "The Lord of the Rings: The Return of the King",
+    "ano": 2003,
+    "nota": 9.0
+  },
+  {
+    "titulo": "Schindler's List",
+    "ano": 1993,
+    "nota": 9.0
+  },
+  {
+    "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+    "ano": 2001,
+    "nota": 8.9
+  },
+  {
+    "titulo": "Pulp Fiction",
+    "ano": 1994,
+    "nota": 8.8
+  },
+  {
+    "titulo": "Il buono, il brutto, il cattivo",
+    "ano": 1966,
+    "nota": 8.8
+  },
+  {
+    "titulo": "The Lord of the Rings: The Two Towers",
+    "ano": 2002,
+    "nota": 8.8
+  },
+  {
+    "titulo": "Forrest Gump",
+    "ano": 1994,
+    "nota": 8.8
+  },
+  {
+    "titulo": "Fight Club",
+    "ano": 1999,
+    "nota": 8.8
+  },
+  {
+    "titulo": "Inception",
+    "ano": 2010,
+    "nota": 8.8
+  },
+  {
+    "titulo": "Star Wars: Episode V - The Empire Strikes Back",
+    "ano": 1980,
+    "nota": 8.7
+  },
+  {
+    "titulo": "The Matrix",
+    "ano": 1999,
+    "nota": 8.7
+  },
+  {
+    "titulo": "GoodFellas",
+    "ano": 1990,
+    "nota": 8.7
+  },
+  {
+    "titulo": "Interstellar",
+    "ano": 2014,
+    "nota": 8.7
+  },
+  {
+    "titulo": "One Flew Over the Cuckoo's Nest",
+    "ano": 1975,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Se7en",
+    "ano": 1995,
+    "nota": 8.6
+  },
+  {
+    "titulo": "It's a Wonderful Life",
+    "ano": 1946,
+    "nota": 8.6
+  },
+  {
+    "titulo": "The Silence of the Lambs",
+    "ano": 1991,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Shichinin no samurai",
+    "ano": 1954,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Saving Private Ryan",
+    "ano": 1998,
+    "nota": 8.6
+  },
+  {
+    "titulo": "The Green Mile",
+    "ano": 1999,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Cidade de Deus",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "La vita è bella",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Terminator 2: Judgment Day",
+    "ano": 1991,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Star Wars",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Back to the Future",
+    "ano": 1985,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Sen to Chihiro no kamikakushi",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "The Pianist",
+    "ano": 2002,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Gladiator",
+    "ano": 2000,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Gisaengchung",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Psycho",
+    "ano": 1960,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Hotaru no haka",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "The Lion King",
+    "ano": 1994,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Seppuku",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "The Departed",
+    "ano": 2006,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Whiplash",
+    "ano": 2014,
+    "nota": 8.5
+  },
+  {
+    "titulo": "The Prestige",
+    "ano": 2006,
+    "nota": 8.5
+  },
+  {
+    "titulo": "American History X",
+    "ano": 1998,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Léon",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Spider-Man: Across the Spider-Verse",
+    "ano": 2023,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Nuovo Cinema Paradiso",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Casablanca",
+    "ano": 1942,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Intouchables",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "The Usual Suspects",
+    "ano": 1995,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Alien",
+    "ano": 1979,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Modern Times",
+    "ano": 1936,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Rear Window",
+    "ano": 1954,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Django Unchained",
+    "ano": 2012,
+    "nota": 8.5
+  },
+  {
+    "titulo": "C'era una volta il West",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "City Lights",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Apocalypse Now",
+    "ano": 1979,
+    "nota": 8.4
+  },
+  {
+    "titulo": "WALL·E",
+    "ano": 2008,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Memento",
+    "ano": 2000,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Dune: Part Two",
+    "ano": 2024,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Raiders of the Lost Ark",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Avengers: Infinity War",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Das Leben der Anderen",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Spider-Man: Into the Spider-Verse",
+    "ano": 2018,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Sunset Blvd.",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Witness for the Prosecution",
+    "ano": 1957,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Paths of Glory",
+    "ano": 1957,
+    "nota": 8.4
+  },
+  {
+    "titulo": "The Shining",
+    "ano": 1980,
+    "nota": 8.4
+  },
+  {
+    "titulo": "The Great Dictator",
+    "ano": 1940,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Inglourious Basterds",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "12th Fail",
+    "ano": null,
+    "nota": 8.7
+  },
+  {
+    "titulo": "Aliens",
+    "ano": 1986,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Tengoku to jigoku",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "The Dark Knight Rises",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Coco",
+    "ano": 2017,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Avengers: Endgame",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Amadeus",
+    "ano": 1984,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Good Will Hunting",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Toy Story",
+    "ano": 1995,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Kimi no Na wa.",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Das Boot",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Oldeuboi",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Braveheart",
+    "ano": 1995,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Mononoke-hime",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "American Beauty",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "3 Idiots",
+    "ano": 2009,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Capharnaüm",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "Joker",
+    "ano": 2019,
+    "nota": 8.3
+  },
+  {
+    "titulo": "C'era una volta in America",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Singin' in the Rain",
+    "ano": 1952,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Idi i smotri",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Requiem for a Dream",
+    "ano": 2000,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Star Wars: Episode VI - Return of the Jedi",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Toy Story 3",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Jagten",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Ikiru",
+    "ano": 1952,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Eternal Sunshine of the Spotless Mind",
+    "ano": 2004,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Incendies",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "The Apartment",
+    "ano": 1960,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Lawrence of Arabia",
+    "ano": 1962,
+    "nota": 8.3
+  },
+  {
+    "titulo": "2001: A Space Odyssey",
+    "ano": 1968,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Reservoir Dogs",
+    "ano": 1992,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Scarface",
+    "ano": 1983,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Heat",
+    "ano": 1995,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Double Indemnity",
+    "ano": 1944,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Up",
+    "ano": 2009,
+    "nota": 8.3
+  },
+  {
+    "titulo": "North by Northwest",
+    "ano": 1959,
+    "nota": 8.3
+  },
+  {
+    "titulo": "M - Eine Stadt sucht einen Mörder",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Full Metal Jacket",
+    "ano": 1987,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Taare Zameen Par",
+    "ano": 2007,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Citizen Kane",
+    "ano": 1941,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Le fabuleux destin d'Amélie Poulain",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Vertigo",
+    "ano": 1958,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Jodaeiye Nader az Simin",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Die Hard",
+    "ano": 1988,
+    "nota": 8.2
+  },
+  {
+    "titulo": "To Kill a Mockingbird",
+    "ano": 1962,
+    "nota": 8.3
+  },
+  {
+    "titulo": "The Sting",
+    "ano": 1973,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Indiana Jones and the Last Crusade",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "A Clockwork Orange",
+    "ano": 1971,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Metropolis",
+    "ano": 1927,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Snatch",
+    "ano": 2000,
+    "nota": 8.2
+  },
+  {
+    "titulo": "1917",
+    "ano": 2019,
+    "nota": 8.2
+  },
+  {
+    "titulo": "L.A. Confidential",
+    "ano": 1997,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Der Untergang",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Oppenheimer",
+    "ano": 2023,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Ladri di biciclette",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Dangal",
+    "ano": 2016,
+    "nota": 8.3
+  },
+  {
+    "titulo": "The Wolf of Wall Street",
+    "ano": 2013,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Truman Show",
+    "ano": 1998,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Green Book",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Hamilton",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Batman Begins",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Judgment at Nuremberg",
+    "ano": 1961,
+    "nota": 8.3
+  },
+  {
+    "titulo": "Shutter Island",
+    "ano": 2010,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Taxi Driver",
+    "ano": 1976,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Per qualche dollaro in più",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Some Like It Hot",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Jurassic Park",
+    "ano": 1993,
+    "nota": 8.2
+  },
+  {
+    "titulo": "There Will Be Blood",
+    "ano": 2007,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Kid",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Father",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "All About Eve",
+    "ano": 1950,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Sixth Sense",
+    "ano": 1999,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Ran",
+    "ano": 1985,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Casino",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "No Country for Old Men",
+    "ano": 2007,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Thing",
+    "ano": 1982,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Hababam Sinifi: Sinifta Kaldi",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "Top Gun: Maverick",
+    "ano": 2022,
+    "nota": 8.2
+  },
+  {
+    "titulo": "El laberinto del fauno",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Unforgiven",
+    "ano": 1992,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Prisoners",
+    "ano": 2013,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Kill Bill: Vol. 1",
+    "ano": 2003,
+    "nota": 8.2
+  },
+  {
+    "titulo": "A Beautiful Mind",
+    "ano": 2001,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Treasure of the Sierra Madre",
+    "ano": 1948,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Hauru no ugoku shiro",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Finding Nemo",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Yôjinbô",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Great Escape",
+    "ano": 1963,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Monty Python and the Holy Grail",
+    "ano": 1975,
+    "nota": 8.2
+  },
+  {
+    "titulo": "La meglio gioventù",
+    "ano": null,
+    "nota": 8.4
+  },
+  {
+    "titulo": "The Elephant Man",
+    "ano": 1980,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Klaus",
+    "ano": 2019,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Dial M for Murder",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Gone with the Wind",
+    "ano": 1939,
+    "nota": 8.2
+  },
+  {
+    "titulo": "El secreto de sus ojos",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Chinatown",
+    "ano": 1974,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Lock, Stock and Two Smoking Barrels",
+    "ano": 1998,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "V for Vendetta",
+    "ano": 2005,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Rashômon",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Inside Out",
+    "ano": 2015,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Catch Me If You Can",
+    "ano": 2002,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Three Billboards Outside Ebbing, Missouri",
+    "ano": 2017,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Trainspotting",
+    "ano": 1996,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Bridge on the River Kwai",
+    "ano": 1957,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Harry Potter and the Deathly Hallows: Part 2",
+    "ano": 2011,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Fargo",
+    "ano": 1996,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Raging Bull",
+    "ano": 1980,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Dead Poets Society",
+    "ano": 1989,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Warrior",
+    "ano": 2011,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Wild Robot",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Barry Lyndon",
+    "ano": 1975,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Million Dollar Baby",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Ben-Hur",
+    "ano": 1959,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Mad Max: Fury Road",
+    "ano": 2015,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Gran Torino",
+    "ano": 2008,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Tonari no Totoro",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Bacheha-ye aseman",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Hacksaw Ridge",
+    "ano": 2016,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Grand Budapest Hotel",
+    "ano": 2014,
+    "nota": 8.1
+  },
+  {
+    "titulo": "12 Years a Slave",
+    "ano": 2013,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Before Sunrise",
+    "ano": 1995,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Blade Runner",
+    "ano": 1982,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Ratatouille",
+    "ano": 2007,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Salinui chueok",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Spider-Man: No Way Home",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "How to Train Your Dragon",
+    "ano": 2010,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Gone Girl",
+    "ano": 2014,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Monsters, Inc.",
+    "ano": 2001,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Jaws",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "In the Name of the Father",
+    "ano": 1993,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Ford v Ferrari",
+    "ano": 2019,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Gold Rush",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Relatos salvajes",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Sherlock Jr.",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Mary and Max.",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Deer Hunter",
+    "ano": 1978,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Le salaire de la peur",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The General",
+    "ano": 1926,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Logan",
+    "ano": 2017,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Mr. Smith Goes to Washington",
+    "ano": 1939,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Rocky",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "On the Waterfront",
+    "ano": 1954,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Tôkyô monogatari",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Smultronstället",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Third Man",
+    "ano": 1949,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Spotlight",
+    "ano": 2015,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Maharaja",
+    "ano": null,
+    "nota": 8.3
+  },
+  {
+    "titulo": "La haine",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Jai Bhim",
+    "ano": null,
+    "nota": 8.6
+  },
+  {
+    "titulo": "The Terminator",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Big Lebowski",
+    "ano": 1998,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Sound of Music",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Det sjunde inseglet",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Best Years of Our Lives",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Room",
+    "ano": 2015,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Koe no Katachi",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Hotel Rwanda",
+    "ano": 2004,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Platoon",
+    "ano": 1986,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Before Sunset",
+    "ano": 2004,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Incredibles",
+    "ano": null,
+    "nota": 8.0
+  },
+  {
+    "titulo": "The Exorcist",
+    "ano": 1973,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Hachi: A Dog's Tale",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Rush",
+    "ano": 2013,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Wizard of Oz",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "La passion de Jeanne d'Arc",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Stand by Me",
+    "ano": 1986,
+    "nota": 8.1
+  },
+  {
+    "titulo": "The Iron Giant",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Babam ve Oglum",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "La battaglia di Algeri",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Ah-ga-ssi",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Network",
+    "ano": 1976,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Gekijô-ban Chensô Man Reze-hen",
+    "ano": null,
+    "nota": 8.5
+  },
+  {
+    "titulo": "Gangs of Wasseypur",
+    "ano": 2012,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Gekijô-ban Kimetsu no Yaiba Mugen Ressha-hen",
+    "ano": null,
+    "nota": 8.2
+  },
+  {
+    "titulo": "Drishyam",
+    "ano": 2015,
+    "nota": 8.2
+  },
+  {
+    "titulo": "The Grapes of Wrath",
+    "ano": 1940,
+    "nota": 8.1
+  },
+  {
+    "titulo": "To Be or Not to Be",
+    "ano": null,
+    "nota": 8.1
+  },
+  {
+    "titulo": "Andhadhun",
+    "ano": 2018,
+    "nota": 8.2
+  }
+]

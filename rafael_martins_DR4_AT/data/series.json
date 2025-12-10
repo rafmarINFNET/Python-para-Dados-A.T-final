@@ -1,0 +1,23 @@
+[
+  {
+    "id":1,
+    "title":"Breaking Bad",
+    "year":2008,
+    "seasons":5,
+    "episodes":62
+  },
+  {
+    "id":2,
+    "title":"Game of Thrones",
+    "year":2011,
+    "seasons":8,
+    "episodes":73
+  },
+  {
+    "id":3,
+    "title":"The Wire",
+    "year":2002,
+    "seasons":5,
+    "episodes":60
+  }
+]

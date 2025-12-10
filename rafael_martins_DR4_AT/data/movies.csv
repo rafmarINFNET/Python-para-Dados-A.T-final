@@ -1,0 +1,157 @@
+id,title,year,rating
+1,The Shawshank Redemption,1994,9.3
+2,The Godfather,1972,9.2
+3,The Dark Knight,2008,9.1
+4,The Godfather Part II,1974,9.0
+5,12 Angry Men,1957,9.0
+6,The Lord of the Rings: The Return of the King,2003,9.0
+7,Schindler's List,1993,9.0
+8,The Lord of the Rings: The Fellowship of the Ring,2001,8.9
+9,Pulp Fiction,1994,8.8
+10,"Il buono, il brutto, il cattivo",1966,8.8
+11,The Lord of the Rings: The Two Towers,2002,8.8
+12,Forrest Gump,1994,8.8
+13,Fight Club,1999,8.8
+14,Inception,2010,8.8
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7
+16,The Matrix,1999,8.7
+17,GoodFellas,1990,8.7
+18,Interstellar,2014,8.7
+19,One Flew Over the Cuckoo's Nest,1975,8.6
+20,Se7en,1995,8.6
+21,It's a Wonderful Life,1946,8.6
+22,The Silence of the Lambs,1991,8.6
+23,Shichinin no samurai,1954,8.6
+24,Saving Private Ryan,1998,8.6
+25,The Green Mile,1999,8.6
+26,Terminator 2: Judgment Day,1991,8.6
+27,Back to the Future,1985,8.5
+28,The Pianist,2002,8.5
+29,Gladiator,2000,8.5
+30,Psycho,1960,8.5
+31,The Lion King,1994,8.5
+32,The Departed,2006,8.5
+33,Whiplash,2014,8.5
+34,The Prestige,2006,8.5
+35,American History X,1998,8.5
+36,Spider-Man: Across the Spider-Verse,2023,8.5
+37,Casablanca,1942,8.5
+38,The Usual Suspects,1995,8.5
+39,Alien,1979,8.5
+40,Modern Times,1936,8.5
+41,Rear Window,1954,8.5
+42,Django Unchained,2012,8.5
+43,Apocalypse Now,1979,8.4
+44,WALL·E,2008,8.4
+45,Memento,2000,8.4
+46,Dune: Part Two,2024,8.4
+47,Spider-Man: Into the Spider-Verse,2018,8.4
+48,Witness for the Prosecution,1957,8.4
+49,Paths of Glory,1957,8.4
+50,The Shining,1980,8.4
+51,The Great Dictator,1940,8.4
+52,Aliens,1986,8.4
+53,Coco,2017,8.4
+54,Amadeus,1984,8.4
+55,Toy Story,1995,8.3
+56,Braveheart,1995,8.3
+57,3 Idiots,2009,8.4
+58,Joker,2019,8.3
+59,Singin' in the Rain,1952,8.3
+60,Requiem for a Dream,2000,8.3
+61,Ikiru,1952,8.3
+62,Eternal Sunshine of the Spotless Mind,2004,8.3
+63,The Apartment,1960,8.3
+64,Lawrence of Arabia,1962,8.3
+65,2001: A Space Odyssey,1968,8.3
+66,Reservoir Dogs,1992,8.3
+67,Scarface,1983,8.3
+68,Heat,1995,8.3
+69,Double Indemnity,1944,8.3
+70,Up,2009,8.3
+71,North by Northwest,1959,8.3
+72,Full Metal Jacket,1987,8.2
+73,Taare Zameen Par,2007,8.3
+74,Citizen Kane,1941,8.2
+75,Vertigo,1958,8.2
+76,Die Hard,1988,8.2
+77,To Kill a Mockingbird,1962,8.3
+78,The Sting,1973,8.2
+79,A Clockwork Orange,1971,8.2
+80,Metropolis,1927,8.2
+81,Snatch,2000,8.2
+82,1917,2019,8.2
+83,L.A. Confidential,1997,8.2
+84,Oppenheimer,2023,8.3
+85,Dangal,2016,8.3
+86,The Wolf of Wall Street,2013,8.2
+87,The Truman Show,1998,8.2
+88,Judgment at Nuremberg,1961,8.3
+89,Shutter Island,2010,8.2
+90,Taxi Driver,1976,8.2
+91,Jurassic Park,1993,8.2
+92,There Will Be Blood,2007,8.2
+93,All About Eve,1950,8.2
+94,The Sixth Sense,1999,8.2
+95,Ran,1985,8.2
+96,No Country for Old Men,2007,8.2
+97,The Thing,1982,8.2
+98,Top Gun: Maverick,2022,8.2
+99,Unforgiven,1992,8.2
+100,Prisoners,2013,8.2
+101,Kill Bill: Vol. 1,2003,8.2
+102,A Beautiful Mind,2001,8.2
+103,The Treasure of the Sierra Madre,1948,8.2
+104,The Great Escape,1963,8.2
+105,Monty Python and the Holy Grail,1975,8.2
+106,The Elephant Man,1980,8.2
+107,Klaus,2019,8.2
+108,Gone with the Wind,1939,8.2
+109,Chinatown,1974,8.1
+110,"Lock, Stock and Two Smoking Barrels",1998,8.1
+111,V for Vendetta,2005,8.1
+112,Inside Out,2015,8.1
+113,Catch Me If You Can,2002,8.1
+114,"Three Billboards Outside Ebbing, Missouri",2017,8.1
+115,Trainspotting,1996,8.1
+116,The Bridge on the River Kwai,1957,8.1
+117,Harry Potter and the Deathly Hallows: Part 2,2011,8.1
+118,Fargo,1996,8.1
+119,Raging Bull,1980,8.1
+120,Dead Poets Society,1989,8.1
+121,Warrior,2011,8.1
+122,Barry Lyndon,1975,8.1
+123,Ben-Hur,1959,8.1
+124,Mad Max: Fury Road,2015,8.1
+125,Gran Torino,2008,8.1
+126,Hacksaw Ridge,2016,8.1
+127,The Grand Budapest Hotel,2014,8.1
+128,12 Years a Slave,2013,8.1
+129,Before Sunrise,1995,8.1
+130,Blade Runner,1982,8.1
+131,Ratatouille,2007,8.1
+132,How to Train Your Dragon,2010,8.1
+133,Gone Girl,2014,8.1
+134,"Monsters, Inc.",2001,8.1
+135,In the Name of the Father,1993,8.1
+136,Ford v Ferrari,2019,8.1
+137,The Deer Hunter,1978,8.1
+138,The General,1926,8.1
+139,Logan,2017,8.1
+140,Mr. Smith Goes to Washington,1939,8.1
+141,On the Waterfront,1954,8.1
+142,The Third Man,1949,8.1
+143,Spotlight,2015,8.1
+144,The Big Lebowski,1998,8.1
+145,Room,2015,8.1
+146,Hotel Rwanda,2004,8.1
+147,Platoon,1986,8.1
+148,Before Sunset,2004,8.1
+149,The Exorcist,1973,8.1
+150,Rush,2013,8.1
+151,Stand by Me,1986,8.1
+152,Network,1976,8.1
+153,Gangs of Wasseypur,2012,8.2
+154,Drishyam,2015,8.2
+155,The Grapes of Wrath,1940,8.1
+156,Andhadhun,2018,8.2
